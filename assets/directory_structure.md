@@ -2,17 +2,35 @@ ai-powered-enterprise-customer-intelligence-platform/
 │
 ├── backend/
 │   ├── app/
+│   │   ├── api/
+│   │   ├── database/
+│   │   ├── services/
+│   │   ├── utils/
+│   │   └── main.py
 │   ├── models/
-│   ├── services/
-│   ├── database/
-│   ├── utils/
-│   ├── main.py
 │   ├── requirements.txt
 │   └── Dockerfile
 │
 ├── frontend/
 │   ├── public/
 │   ├── src/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   │   ├── charts/
+│   │   │   ├── dashboard/
+│   │   │   ├── kpi/
+│   │   │   ├── prediction/
+│   │   │   └── layout/
+│   │   ├── pages/
+│   │   │   ├── Dashboard/
+│   │   │   ├── Analytics/
+│   │   │   ├── Predictions/
+│   │   │   ├── Reports/
+│   │   │   └── Settings/
+│   │   ├── services/
+│   │   ├── hooks/
+│   │   ├── utils/
+│   │   └── App.tsx
 │   ├── package.json
 │   └── vite.config.ts
 │
@@ -34,8 +52,8 @@ ai-powered-enterprise-customer-intelligence-platform/
 │   ├── images/
 │   ├── 01_Project_Overview.md
 │   ├── 02_Dataset.md
-│   ├── 03_Architecture.md
-│   ├── 04_API.md
+│   ├── 03_System_Architecture.md
+│   ├── 04_API_Documentation.md
 │   ├── 05_Deployment.md
 │   └── CHANGELOG.md
 │
@@ -45,6 +63,6 @@ ai-powered-enterprise-customer-intelligence-platform/
 │
 ├── .env.example
 ├── .gitignore
+├── docker-compose.yml
 ├── LICENSE
-├── README.md
-└── docker-compose.yml
+└── README.md

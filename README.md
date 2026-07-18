@@ -18,6 +18,191 @@ The expected outcome is a fully deployed AI-powered Business Intelligence Platfo
 
 ---
 
-## 🎯 Vision
+# 🎯 Vision
 
-To build an industry-ready AI-powered Customer Intelligence Platform that helps organizations make smarter, data-driven decisions while demonstrating modern Machine Learning engineering practices.
+To build an industry-ready AI-powered Business Intelligence Platform that empowers organizations to make smarter, data-driven customer decisions while demonstrating modern Machine Learning engineering practices, scalable software architecture, and deployable AI solutions.
+
+---
+
+# ✨ Key Features (Planned)
+
+## Customer Intelligence
+
+- Customer Churn Prediction
+- Customer Segmentation
+- Customer Lifetime Value (CLV) Prediction
+- Purchase Propensity Prediction
+
+## Business Intelligence Dashboard
+
+- Executive KPI Dashboard
+- Revenue Analytics
+- Customer Analytics
+- Interactive Charts
+- Customer Insights
+
+## Explainable AI
+
+- SHAP-based Prediction Explanation
+- Feature Importance Visualization
+
+## Data Management
+
+- Customer Dataset Upload
+- Data Validation
+- Automated Preprocessing
+
+## Reports
+
+- Export Predictions (CSV)
+- Export Analytics Reports
+
+## Deployment
+
+- Live Web Application
+- REST API
+- Cloud Deployment
+
+---
+
+# 🛠 Tech Stack
+
+## Machine Learning
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- XGBoost
+- SHAP
+
+## Backend
+
+- FastAPI
+
+## Frontend
+
+- React
+- Vite
+- Tailwind CSS
+- Recharts
+
+## Database
+
+- SQLite *(Minor Project)*
+- PostgreSQL *(Major Project)*
+
+## Deployment
+
+- Render
+- Vercel
+
+## Version Control
+
+- Git
+- GitHub
+
+---
+
+# 🔧 Development Tools
+
+- Visual Studio Code
+- Jupyter Notebook
+- Git
+- GitHub
+- Postman
+
+---
+
+# 📊 Dataset
+
+**Primary Dataset**
+
+Olist Brazilian E-Commerce Dataset
+
+Additional datasets may be incorporated during the Major Project phase for performance evaluation and feature enhancement.
+
+---
+
+# 🚧 Project Status
+
+| Phase | Status |
+|--------|--------|
+| Phase 1 - Project Setup | 🟢 In Progress |
+| Phase 2 - Planning & Design | ⏳ Pending |
+| Phase 3 - Data Engineering | ⏳ Pending |
+| Phase 4 - Machine Learning | ⏳ Pending |
+| Phase 5 - Backend Development | ⏳ Pending |
+| Phase 6 - Frontend & BI Dashboard | ⏳ Pending |
+| Phase 7 - Deployment | ⏳ Pending |
+| Phase 8 - Major Enhancements | ⏳ Pending |
+| Phase 9 - Documentation | ⏳ Pending |
+
+---
+
+# 📂 Repository Structure
+
+```
+ai-powered-enterprise-customer-intelligence-platform/
+
+├── backend/
+├── frontend/
+├── ml/
+├── data/
+├── notebooks/
+├── docs/
+├── assets/
+└── README.md
+```
+
+The complete project architecture and documentation will be expanded incrementally as the project progresses.
+
+---
+
+# 📚 Documentation
+
+Project documentation is maintained inside the **docs/** directory.
+
+As development progresses, detailed documentation will be added, including:
+
+- Project Overview
+- Dataset Documentation
+- System Architecture
+- API Documentation
+- Deployment Guide
+- Changelog
+
+---
+
+# 🚀 Project Roadmap
+
+The project is being developed using:
+
+- **Agile Software Development Methodology** for overall project management.
+- **CRISP-DM Framework** for the Machine Learning lifecycle.
+
+The development roadmap has been divided into nine structured phases, allowing continuous enhancement from the Minor Project into the Major Project.
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+# 👨‍💻 Author
+
+**Anurag Shukla**
+
+MCA Student | Machine Learning Enthusiast | Aspiring ML Engineer
+
+GitHub: *To be updated*
+
+LinkedIn: *To be updated*
+
+---
+
+## ⭐ Project Goal
+
+This project is being developed as an industry-oriented Machine Learning portfolio project with the objective of demonstrating end-to-end AI application development, Business Intelligence, predictive analytics, and deployment practices suitable for modern ML Engineer roles.
