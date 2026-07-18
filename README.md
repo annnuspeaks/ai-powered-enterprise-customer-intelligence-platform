@@ -112,6 +112,18 @@ To build an industry-ready AI-powered Business Intelligence Platform that empowe
 - GitHub
 - Postman
 
+## 🐍 Python Environment
+
+This project uses a dedicated Python virtual environment to ensure dependency isolation and reproducibility across development environments.
+
+Python Version:
+- Python 3.14.x
+
+Environment:
+- Virtual Environment (venv)
+
+Dependency management is handled using a `requirements.txt` file, which will be updated incrementally as the project evolves.
+
 ---
 
 # 📊 Dataset
